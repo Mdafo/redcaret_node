@@ -1,0 +1,124 @@
+# ================================================
+# .gitignore for Node.js Project (Bitbucket)
+# ================================================
+
+# --------------------------------
+# Dependency directories
+# --------------------------------
+node_modules/
+
+# --------------------------------
+# Test / Try Files
+# --------------------------------
+*test*
+*try*
+
+# --------------------------------
+# Configuration
+# --------------------------------
+config/
+*.config
+
+# --------------------------------
+# normal_query
+# --------------------------------
+normal_query/
+
+# --------------------------------
+# public
+# --------------------------------
+public/
+images/
+
+# --------------------------------
+# Log files
+# --------------------------------
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# --------------------------------
+# Environment and Secret Files
+# --------------------------------
+.env
+.env.*
+*.pem
+*.key
+*.crt
+*.csr
+
+# --------------------------------
+# Build Output
+# --------------------------------
+dist/
+build/
+coverage/
+
+# --------------------------------
+# OS and Editor Generated Files
+# --------------------------------
+.DS_Store         # macOS
+Thumbs.db         # Windows
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# --------------------------------
+# Lock Files (optional)
+# --------------------------------
+package-lock.json
+yarn.lock
+
+# --------------------------------
+# Caches and Backups
+# --------------------------------
+.npm/
+.yarn/
+*.sqlite
+*.db
+*.bak
+*.tmp
+*.old
+
+# --------------------------------
+# Git Credential Helper
+# --------------------------------
+.git-credentials
+
+# --------------------------------
+# Bitbucket Pipelines (optional)
+# --------------------------------
+.bitbucket/pipelines/generated/
+
+# --------------------------------
+# Java / Maven (if applicable)
+# --------------------------------
+*.jar
+target/
+
+# --------------------------------
+# Unit Test Reports
+# --------------------------------
+TEST*.xml
+
+# --------------------------------
+# Executable / Application Files
+# --------------------------------
+*.app
+*.exe
+*.war
+
+# --------------------------------
+# Large Media Files (optional)
+# --------------------------------
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv

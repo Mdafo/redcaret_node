@@ -1,0 +1,30 @@
+{
+  "name": "nirvasa-whatsapp-shop",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "A.Rahman khan",
+  "license": "ISC",
+  "description": "WhatsApp marketing is about building a direct and personal connection with your audience, leveraging the app’s features to drive customer interaction, increase sales, and enhance customer service",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.6",
+    "dotenv": "^16.5.0",
+    "express": "^4.21.2",
+    "googleapis": "^148.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "moment-timezone": "^0.5.48",
+    "mysql2": "^3.14.0",
+    "node-cron": "^3.0.3",
+    "nodemailer": "^8.0.10",
+    "nodemon": "^3.1.9",
+    "sequelize": "^6.37.7"
+  }
+}
