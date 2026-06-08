@@ -1,0 +1,1 @@
+2025-04-16T10:14:20.264Z - ERROR: Error fetching products for bolt_product_id 7338: Error fetching how to use products for productId 7338: Unknown column 'ProductModel.status' in 'where clause'

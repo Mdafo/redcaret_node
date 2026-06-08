@@ -1,0 +1,175 @@
+2025-04-18T10:39:41.980Z - SUCCESS: Lead push scheduler started at 2025-04-18T10:39:41.976Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:39:41.982Z - SUCCESS: Lead push scheduler started at 2025-04-18T10:39:41.981Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T10:39:41.985Z - SUCCESS: Lead push scheduler started at 2025-04-18T10:39:41.984Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T10:40:00.410Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:40:00.402Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:40:00.412Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:40:00.411Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:40:01.398Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:40:01.397Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T10:40:01.429Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:40:01.428Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T10:41:00.740Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:41:00.740Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:41:00.742Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:41:00.741Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:41:01.303Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:41:01.302Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T10:41:01.318Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:41:01.317Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T10:42:00.280Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:42:00.280Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:42:00.280Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:42:00.280Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:42:00.936Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:42:00.936Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T10:42:00.945Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:42:00.944Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T10:43:00.693Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:43:00.692Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:43:00.694Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:43:00.693Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:43:01.275Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:43:01.274Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T10:43:01.304Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:43:01.303Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T10:44:00.153Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:44:00.153Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:44:00.154Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:44:00.154Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:44:00.747Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:44:00.747Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T10:44:00.752Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:44:00.750Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T10:45:00.706Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:45:00.706Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:45:00.707Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:45:00.707Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:45:01.377Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:45:01.377Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T10:45:01.423Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:45:01.423Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T10:46:00.162Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:46:00.162Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:46:00.164Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:46:00.163Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:46:00.801Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:46:00.800Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T10:46:00.829Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:46:00.828Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T10:47:00.588Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:47:00.588Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:47:00.590Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:47:00.589Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:47:01.157Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:47:01.157Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T10:47:01.179Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:47:01.178Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T10:48:00.157Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:48:00.156Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:48:00.158Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:48:00.157Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:48:00.713Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:48:00.712Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T10:48:00.769Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:48:00.769Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T10:49:00.631Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:49:00.630Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:49:00.631Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:49:00.631Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:49:01.185Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:49:01.185Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T10:49:01.202Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:49:01.202Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T10:50:00.093Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:50:00.092Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:50:00.095Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:50:00.094Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:50:00.691Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:50:00.690Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T10:50:00.694Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:50:00.693Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T10:51:00.541Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:51:00.540Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:51:00.542Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:51:00.541Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:51:01.359Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:51:01.358Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T10:51:01.370Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:51:01.369Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T10:52:01.055Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:52:01.054Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:52:01.057Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:52:01.056Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:52:01.599Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:52:01.598Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T10:52:01.662Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:52:01.661Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T10:53:00.454Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:53:00.454Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:53:00.455Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:53:00.455Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:53:00.972Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:53:00.971Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T10:53:01.036Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:53:01.036Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T10:54:00.867Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:54:00.866Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:54:00.868Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:54:00.868Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:54:01.384Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:54:01.383Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T10:54:01.403Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:54:01.402Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T10:55:00.341Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:55:00.341Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:55:00.343Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:55:00.342Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:55:00.887Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:55:00.887Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T10:55:00.979Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:55:00.978Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T10:56:00.821Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:56:00.820Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:56:00.823Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:56:00.822Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:56:01.555Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:56:01.555Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T10:56:01.689Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:56:01.688Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T10:57:00.372Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:57:00.371Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:57:00.373Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:57:00.372Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:57:00.838Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:57:00.838Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T10:57:00.878Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:57:00.877Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T10:58:00.750Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:58:00.749Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:58:00.752Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:58:00.750Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:58:01.275Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:58:01.274Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T10:58:01.286Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:58:01.284Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T10:59:01.101Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:59:01.101Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:59:01.103Z - SUCCESS: Successfully ran scheduler at 2025-04-18T10:59:01.102Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T10:59:01.631Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:59:01.630Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T10:59:01.643Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T10:59:01.641Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T11:00:00.601Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:00:00.600Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:00:00.601Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:00:00.601Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:00:01.205Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:00:01.205Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T11:00:01.225Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:00:01.224Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T11:01:00.122Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:01:00.116Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:01:00.123Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:01:00.122Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:01:00.646Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:01:00.645Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T11:01:00.668Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:01:00.667Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T11:02:00.563Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:02:00.563Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:02:00.565Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:02:00.564Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:02:01.338Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:02:01.337Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T11:02:01.348Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:02:01.346Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T11:03:00.063Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:03:00.062Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:03:00.063Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:03:00.063Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:03:00.591Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:03:00.591Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T11:03:00.635Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:03:00.635Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T11:04:00.591Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:04:00.590Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:04:00.592Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:04:00.591Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:04:01.131Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:04:01.131Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T11:04:01.189Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:04:01.188Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T11:05:00.100Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:05:00.100Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:05:00.102Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:05:00.101Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:05:00.762Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:05:00.761Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T11:05:00.772Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:05:00.771Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T11:06:00.512Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:06:00.512Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:06:00.513Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:06:00.513Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:06:01.050Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:06:01.050Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T11:06:01.069Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:06:01.069Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T11:07:00.958Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:07:00.957Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:07:00.958Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:07:00.958Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:07:01.714Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:07:01.714Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T11:07:01.754Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:07:01.752Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T11:08:00.394Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:08:00.393Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:08:00.394Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:08:00.394Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:08:00.913Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:08:00.912Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T11:08:00.953Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:08:00.953Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T11:09:00.855Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:09:00.854Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:09:00.857Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:09:00.855Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:09:01.369Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:09:01.367Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T11:09:01.487Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:09:01.485Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T11:10:00.252Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:10:00.252Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:10:00.253Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:10:00.253Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:10:00.888Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:10:00.887Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T11:10:00.909Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:10:00.907Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T11:11:00.740Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:11:00.740Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:11:00.741Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:11:00.741Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:11:01.309Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:11:01.308Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T11:11:01.311Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:11:01.311Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T11:12:00.204Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:12:00.203Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:12:00.205Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:12:00.204Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:12:00.817Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:12:00.817Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T11:12:00.863Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:12:00.862Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T11:13:00.628Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:13:00.627Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:13:00.628Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:13:00.628Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:13:01.305Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:13:01.299Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T11:13:01.326Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:13:01.325Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T11:14:00.143Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:14:00.142Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:14:00.144Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:14:00.143Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:14:00.798Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:14:00.797Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T11:14:00.816Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:14:00.815Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T11:15:00.542Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:15:00.541Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:15:00.543Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:15:00.542Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:15:01.147Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:15:01.147Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T11:15:01.344Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:15:01.343Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T11:16:00.980Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:16:00.979Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:16:00.982Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:16:00.981Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:16:01.504Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:16:01.503Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T11:16:01.589Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:16:01.588Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T11:17:00.441Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:17:00.440Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:17:00.443Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:17:00.442Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:17:01.137Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:17:01.136Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T11:17:01.148Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:17:01.148Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T11:18:00.995Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:18:00.994Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:18:00.996Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:18:00.995Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:18:01.632Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:18:01.631Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T11:18:01.660Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:18:01.659Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T11:19:00.470Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:19:00.470Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:19:00.472Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:19:00.471Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:19:01.067Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:19:01.066Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T11:19:01.091Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:19:01.091Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T11:20:00.912Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:20:00.911Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:20:00.914Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:20:00.913Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:20:01.480Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:20:01.479Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T11:20:01.561Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:20:01.560Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T11:21:00.330Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:21:00.330Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:21:00.331Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:21:00.331Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:21:00.868Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:21:00.867Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T11:21:00.883Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:21:00.883Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-18T11:22:00.812Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:22:00.811Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:22:00.813Z - SUCCESS: Successfully ran scheduler at 2025-04-18T11:22:00.812Z with this URL: http://localhost:5001/api/PushLeads
+2025-04-18T11:22:01.329Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:22:01.328Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-18T11:22:01.360Z - SUCCESS: Triggering webhook not started becaues of data is not exist in excel  2025-04-18T11:22:01.360Z with this URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4

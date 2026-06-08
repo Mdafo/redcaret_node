@@ -1,0 +1,4 @@
+2025-04-16T04:24:32.751Z - ERROR: Order creation failed: Cannot read properties of null (reading 'sub1')
+2025-04-16T04:27:08.467Z - ERROR: Order creation failed: Cannot read properties of null (reading 'sub1')
+2025-04-16T04:29:41.452Z - ERROR: Order creation failed: sub1 is not defined
+2025-04-16T04:30:57.064Z - ERROR: Order creation failed: firstName is not defined

@@ -1,0 +1,2 @@
+2025-04-16T09:18:01.696Z - ERROR: Error triggering webhook Request failed with status code 500  2025-04-16T09:18:01.695Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-16T09:18:01.704Z - ERROR: Error triggering webhook Request failed with status code 500  2025-04-16T09:18:01.703Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY

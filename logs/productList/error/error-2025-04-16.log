@@ -1,0 +1,7 @@
+2025-04-16T09:54:31.800Z - ERROR: Error fetching products for categoryId 1 : Error fetching products for categoryId 1 : Unknown column 'ProductModel.product_name' in 'field list'
+2025-04-16T09:55:25.780Z - ERROR: Error fetching products for categoryId 6: Error fetching products for categoryId 6: Unknown column 'ProductModel.product_name' in 'field list'
+2025-04-16T09:57:31.532Z - ERROR: Error fetching products for categoryId 6: Error fetching products for categoryId 6: Unknown column 'ProductModel.product_name' in 'field list'
+2025-04-16T09:59:07.181Z - ERROR: Error fetching products for categoryId 6: Error fetching products for categoryId 6: Unknown column 'media.image' in 'field list'
+2025-04-16T10:02:18.451Z - ERROR: Error fetching products for categoryId 6: Error fetching products for categoryId 6: Unknown column 'media.image' in 'field list'
+2025-04-16T10:10:23.388Z - ERROR: Error fetching products for categoryId 6: Error fetching products for categoryId 6: Unknown column 'ProductModel.status' in 'where clause'
+2025-04-16T10:11:29.869Z - ERROR: Error fetching products for categoryId 6: Error fetching products for categoryId 6: Unknown column 'ProductModel.status' in 'where clause'

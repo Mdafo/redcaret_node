@@ -1,0 +1,89 @@
+2025-04-14T13:45:00.448Z - SUCCESS: Successfully ran scheduler at 2025-04-14T13:45:00.447Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T13:45:00.451Z - SUCCESS: Successfully ran scheduler at 2025-04-14T13:45:00.449Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T13:45:34.562Z - SUCCESS: Lead push scheduler started at 2025-04-14T13:45:34.561Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T13:45:34.563Z - SUCCESS: Lead push scheduler started at 2025-04-14T13:45:34.563Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-14T13:45:34.565Z - SUCCESS: Lead push scheduler started at 2025-04-14T13:45:34.565Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-14T13:46:01.035Z - SUCCESS: Successfully ran scheduler at 2025-04-14T13:46:01.034Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T13:46:01.035Z - SUCCESS: Successfully ran scheduler at 2025-04-14T13:46:01.035Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T13:47:00.453Z - SUCCESS: Successfully ran scheduler at 2025-04-14T13:47:00.452Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T13:47:00.453Z - SUCCESS: Successfully ran scheduler at 2025-04-14T13:47:00.453Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T14:16:58.674Z - SUCCESS: Lead push scheduler started at 2025-04-14T14:16:58.673Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T14:16:58.675Z - SUCCESS: Lead push scheduler started at 2025-04-14T14:16:58.675Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-14T14:16:58.678Z - SUCCESS: Lead push scheduler started at 2025-04-14T14:16:58.677Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-14T14:17:00.918Z - SUCCESS: Successfully ran scheduler at 2025-04-14T14:17:00.917Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T14:17:00.918Z - SUCCESS: Successfully ran scheduler at 2025-04-14T14:17:00.918Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T14:17:39.082Z - SUCCESS: Lead push scheduler started at 2025-04-14T14:17:39.081Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T14:17:39.084Z - SUCCESS: Lead push scheduler started at 2025-04-14T14:17:39.083Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-14T14:17:39.086Z - SUCCESS: Lead push scheduler started at 2025-04-14T14:17:39.085Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-14T14:18:00.465Z - SUCCESS: Successfully ran scheduler at 2025-04-14T14:18:00.464Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T14:18:00.465Z - SUCCESS: Successfully ran scheduler at 2025-04-14T14:18:00.465Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T14:18:02.459Z - SUCCESS: Successfully ran scheduler at 2025-04-14T14:18:02.458Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-14T14:18:02.460Z - SUCCESS: Successfully ran scheduler at 2025-04-14T14:18:02.459Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-14T14:19:01.258Z - SUCCESS: Successfully ran scheduler at 2025-04-14T14:19:01.257Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T14:19:01.260Z - SUCCESS: Successfully ran scheduler at 2025-04-14T14:19:01.259Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T14:56:19.155Z - SUCCESS: Lead push scheduler started at 2025-04-14T14:56:19.154Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T14:56:19.157Z - SUCCESS: Lead push scheduler started at 2025-04-14T14:56:19.156Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-14T14:56:19.160Z - SUCCESS: Lead push scheduler started at 2025-04-14T14:56:19.160Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-14T14:57:00.566Z - SUCCESS: Successfully ran scheduler at 2025-04-14T14:57:00.566Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T14:57:00.567Z - SUCCESS: Successfully ran scheduler at 2025-04-14T14:57:00.567Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T14:57:02.335Z - SUCCESS: Successfully ran scheduler at 2025-04-14T14:57:02.334Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-14T14:57:02.338Z - SUCCESS: Successfully ran scheduler at 2025-04-14T14:57:02.337Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-14T15:10:00.373Z - SUCCESS: Lead push scheduler started at 2025-04-14T15:10:00.372Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T15:10:00.374Z - SUCCESS: Lead push scheduler started at 2025-04-14T15:10:00.374Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-14T15:10:00.376Z - SUCCESS: Lead push scheduler started at 2025-04-14T15:10:00.376Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-14T15:10:23.664Z - SUCCESS: Lead push scheduler started at 2025-04-14T15:10:23.662Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T15:10:23.665Z - SUCCESS: Lead push scheduler started at 2025-04-14T15:10:23.665Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-14T15:10:23.668Z - SUCCESS: Lead push scheduler started at 2025-04-14T15:10:23.667Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-14T15:11:01.090Z - SUCCESS: Successfully ran scheduler at 2025-04-14T15:11:01.090Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T15:11:01.091Z - SUCCESS: Successfully ran scheduler at 2025-04-14T15:11:01.090Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T15:11:03.211Z - SUCCESS: Successfully ran scheduler at 2025-04-14T15:11:03.210Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-14T15:11:03.213Z - SUCCESS: Successfully ran scheduler at 2025-04-14T15:11:03.212Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-14T15:14:42.090Z - SUCCESS: Lead push scheduler started at 2025-04-14T15:14:42.089Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T15:14:42.091Z - SUCCESS: Lead push scheduler started at 2025-04-14T15:14:42.091Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-14T15:14:42.094Z - SUCCESS: Lead push scheduler started at 2025-04-14T15:14:42.093Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-14T15:15:00.580Z - SUCCESS: Successfully ran scheduler at 2025-04-14T15:15:00.580Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T15:15:00.581Z - SUCCESS: Successfully ran scheduler at 2025-04-14T15:15:00.581Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T15:16:00.816Z - SUCCESS: Successfully ran scheduler at 2025-04-14T15:16:00.815Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T15:16:00.821Z - SUCCESS: Successfully ran scheduler at 2025-04-14T15:16:00.817Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T15:16:02.223Z - SUCCESS: Successfully ran scheduler at 2025-04-14T15:16:02.220Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-14T15:16:02.226Z - SUCCESS: Successfully ran scheduler at 2025-04-14T15:16:02.225Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-14T15:31:08.410Z - SUCCESS: Lead push scheduler started at 2025-04-14T15:31:08.409Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T15:31:08.411Z - SUCCESS: Lead push scheduler started at 2025-04-14T15:31:08.411Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-14T15:31:08.414Z - SUCCESS: Lead push scheduler started at 2025-04-14T15:31:08.414Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-14T15:31:35.998Z - SUCCESS: Lead push scheduler started at 2025-04-14T15:31:35.997Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T15:31:36.001Z - SUCCESS: Lead push scheduler started at 2025-04-14T15:31:36.000Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-14T15:31:36.004Z - SUCCESS: Lead push scheduler started at 2025-04-14T15:31:36.003Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-14T15:32:00.294Z - SUCCESS: Successfully ran scheduler at 2025-04-14T15:32:00.294Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T15:32:00.295Z - SUCCESS: Successfully ran scheduler at 2025-04-14T15:32:00.295Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T15:32:02.752Z - SUCCESS: Successfully ran scheduler at 2025-04-14T15:32:02.750Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-14T15:32:02.754Z - SUCCESS: Successfully ran scheduler at 2025-04-14T15:32:02.753Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-14T15:35:00.877Z - SUCCESS: Lead push scheduler started at 2025-04-14T15:35:00.876Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T15:35:00.879Z - SUCCESS: Lead push scheduler started at 2025-04-14T15:35:00.879Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-14T15:35:00.881Z - SUCCESS: Lead push scheduler started at 2025-04-14T15:35:00.881Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-14T15:36:00.436Z - SUCCESS: Successfully ran scheduler at 2025-04-14T15:36:00.435Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T15:36:00.436Z - SUCCESS: Successfully ran scheduler at 2025-04-14T15:36:00.436Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T15:37:03.977Z - SUCCESS: Lead push scheduler started at 2025-04-14T15:37:03.976Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T15:37:03.978Z - SUCCESS: Lead push scheduler started at 2025-04-14T15:37:03.978Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-14T15:37:03.981Z - SUCCESS: Lead push scheduler started at 2025-04-14T15:37:03.980Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-14T15:38:00.547Z - SUCCESS: Successfully ran scheduler at 2025-04-14T15:38:00.547Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T15:38:00.548Z - SUCCESS: Successfully ran scheduler at 2025-04-14T15:38:00.548Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T15:39:01.063Z - SUCCESS: Successfully ran scheduler at 2025-04-14T15:39:01.062Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T15:39:01.065Z - SUCCESS: Successfully ran scheduler at 2025-04-14T15:39:01.064Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T15:40:00.483Z - SUCCESS: Successfully ran scheduler at 2025-04-14T15:40:00.479Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T15:40:00.484Z - SUCCESS: Successfully ran scheduler at 2025-04-14T15:40:00.484Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T15:41:03.201Z - SUCCESS: Lead push scheduler started at 2025-04-14T15:41:03.200Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T15:41:03.203Z - SUCCESS: Lead push scheduler started at 2025-04-14T15:41:03.203Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-14T15:41:03.206Z - SUCCESS: Lead push scheduler started at 2025-04-14T15:41:03.206Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-14T15:42:00.787Z - SUCCESS: Successfully ran scheduler at 2025-04-14T15:42:00.787Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T15:42:00.789Z - SUCCESS: Successfully ran scheduler at 2025-04-14T15:42:00.788Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T15:42:35.746Z - SUCCESS: Lead push scheduler started at 2025-04-14T15:42:35.745Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T15:42:35.747Z - SUCCESS: Lead push scheduler started at 2025-04-14T15:42:35.747Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1f3Rk4tCszNRsnnClRNI26UB8qPFtTUjAHD0sFglMJf4
+2025-04-14T15:42:35.749Z - SUCCESS: Lead push scheduler started at 2025-04-14T15:42:35.749Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-14T15:43:01.105Z - SUCCESS: Successfully ran scheduler at 2025-04-14T15:43:01.104Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T15:43:01.107Z - SUCCESS: Successfully ran scheduler at 2025-04-14T15:43:01.106Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T15:43:03.433Z - SUCCESS: Successfully ran scheduler at 2025-04-14T15:43:03.432Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-14T15:43:03.435Z - SUCCESS: Successfully ran scheduler at 2025-04-14T15:43:03.434Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/getSheetData?spreadsheetId=1_J6mcwcZfxhUpjsOcQ2HORlynWa8IuBMA3uAHdSGbEY
+2025-04-14T15:44:00.994Z - SUCCESS: Successfully ran scheduler at 2025-04-14T15:44:00.993Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T15:44:01.000Z - SUCCESS: Successfully ran scheduler at 2025-04-14T15:44:00.996Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T15:45:01.021Z - SUCCESS: Successfully ran scheduler at 2025-04-14T15:45:01.021Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads
+2025-04-14T15:45:01.023Z - SUCCESS: Successfully ran scheduler at 2025-04-14T15:45:01.022Z with schedule "*/1 * * * *" and URL: http://localhost:5001/api/PushLeads

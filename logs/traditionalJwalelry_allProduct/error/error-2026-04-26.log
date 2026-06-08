@@ -1,0 +1,6 @@
+2026-04-26T08:41:25.639Z - ERROR: Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'p.old_price as discountPrice,
+              p.price
+          FROM products A...' at line 4
+2026-04-26T08:41:35.362Z - ERROR: Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'p.old_price as discountPrice,
+              p.price
+          FROM products A...' at line 4
