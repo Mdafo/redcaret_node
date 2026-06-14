@@ -31,8 +31,40 @@ app.use(cors({
   allowedHeaders: ['Content-Type', 'Authorization']
 }));
 // Manual Headers
+// app.use((req, res, next) => {
+//   res.header("Access-Control-Allow-Origin", "http://localhost:3000");
+
+//   res.header(
+//     "Access-Control-Allow-Headers",
+//     "Origin, X-Requested-With, Content-Type, Accept, Authorization"
+//   );
+
+//   res.header(
+//     "Access-Control-Allow-Methods",
+//     "GET, POST, PUT, DELETE, OPTIONS"
+//   );
+
+//   res.header("Access-Control-Allow-Credentials", "true");
+
+//   // Handle preflight requests
+//   if (req.method === "OPTIONS") {
+//     return res.sendStatus(200);
+//   }
+
+//   next();
+// });
+
 app.use((req, res, next) => {
-  res.header("Access-Control-Allow-Origin", "http://localhost:3000");
+  const allowedOrigins = [
+    "http://localhost:3000",
+    "http://72.62.193.115:3000", // add your frontend IP/domain
+  ];
+
+  const origin = req.headers.origin;
+
+  if (allowedOrigins.includes(origin)) {
+    res.header("Access-Control-Allow-Origin", origin);
+  }
 
   res.header(
     "Access-Control-Allow-Headers",
@@ -46,7 +78,6 @@ app.use((req, res, next) => {
 
   res.header("Access-Control-Allow-Credentials", "true");
 
-  // Handle preflight requests
   if (req.method === "OPTIONS") {
     return res.sendStatus(200);
   }
