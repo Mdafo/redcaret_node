@@ -18,14 +18,18 @@ const app = express();
 app.use(express.json());
 
 // CORS Configuration
-app.use(
-  cors({
-    origin: "http://localhost:3000",
-    methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
-    credentials: true,
-  })
-);
-
+// app.use(
+//   cors({
+//     origin: "http://localhost:3000",
+//     methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+//     credentials: true,
+//   })
+// );
+app.use(cors({
+  origin: ['http://redcarat.ae', 'https://redcarat.ae', 'http://www.redcarat.ae', 'https://www.redcarat.ae'],
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+  allowedHeaders: ['Content-Type', 'Authorization']
+}));
 // Manual Headers
 app.use((req, res, next) => {
   res.header("Access-Control-Allow-Origin", "http://localhost:3000");
